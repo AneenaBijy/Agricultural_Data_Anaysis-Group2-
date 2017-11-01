@@ -16,9 +16,11 @@ A simple, opensource weather app for Android. It gathers data from [OpenWeatherM
 * Offline functionality
 
 ## Screenshots
-[<img src="http://i.imgur.com/bvcc7Lt.png" width=250>](http://i.imgur.com/bvcc7Lt.png)
-[<img src="http://i.imgur.com/SaH5X2O.png" width=250>](http://i.imgur.com/SaH5X2O.png)
-[<img src="http://i.imgur.com/ztMbvyY.png" width=250>](http://i.imgur.com/ztMbvyY.png)
+https://github.com/AneenaBijy/Agricultural_Data_Anaysis-Group2-/blob/master/a.png
+https://github.com/AneenaBijy/Agricultural_Data_Anaysis-Group2-/blob/master/b.png
+https://github.com/AneenaBijy/Agricultural_Data_Anaysis-Group2-/blob/master/1.jpg
+https://github.com/AneenaBijy/Agricultural_Data_Anaysis-Group2-/blob/master/2.jpg
+https://github.com/AneenaBijy/Agricultural_Data_Anaysis-Group2-/blob/master/3.jpg
 The weather data is provided by [OpenWeatherMap](http://openweathermap.org/), under the <a href='http://creativecommons.org/licenses/by-sa/2.0/'>Creative Commons license</a>.
 
 Icons are <a href='https://erikflowers.github.io/weather-icons/'>Weather Icons</a>, by <a href='http://www.twitter.com/artill'>Lukas Bischoff</a> and <a href='http://www.twitter.com/Erik_UX'>Erik Flowers</a>, under the <a href='http://scripts.sil.org/OFL'>SIL OFL 1.1</a> license.
